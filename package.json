@@ -1,7 +1,7 @@
 {
     "name": "not-where-i-parked-my-car",
     "version": "1.0.0",
-    "description": "Really simple 404 page, still probably overkill.",
+    "description": "Really simple 404 page, probably overkill.",
     "main": "index.js",
     "scripts": {
         "autoprefixer": "postcss resources/css/tailwind.css -o public/css/tailwind.css",
